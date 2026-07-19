@@ -1,0 +1,5 @@
+big four commands of git and GitHub
+git init - to initialiaze respiratory in a folder
+git status - to see the status of a document
+git add - for adding the files in staging area
+git commit- for setting a snapshot or a check point
